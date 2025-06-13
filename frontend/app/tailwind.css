@@ -10,3 +10,10 @@ body {
     color-scheme: dark;
   }
 }
+
+html,
+body,
+.canvas-wrapper {
+  margin: unset;
+  height: 100%;
+}
